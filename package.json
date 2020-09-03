@@ -1,10 +1,9 @@
 {
-  "name": "@joshua-myers/bbc-news",
+  "name": "bbc-news",
   "version": "1.0.1",
   "description": "Get the latest news from BBC",
   "main": "src/index.js",
   "bin": {
-    "@joshua-myers/bbc-news": "bin/bbc-news.js",
     "bbc-news": "bin/bbc-news.js"
   },
   "publishConfig": {
