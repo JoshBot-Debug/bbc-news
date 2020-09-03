@@ -37,4 +37,4 @@ http://feeds.bbci.co.uk
 
 [Official website](https://joshuajosephmyers.com)
 
-Email Address : joshuamyerswebdev@gmail.com
+joshuamyerswebdev@gmail.com
