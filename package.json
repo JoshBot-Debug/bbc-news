@@ -1,6 +1,6 @@
 {
   "name": "@joshua-myers/bbc-news",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the latest news from BBC",
   "main": "src/index.js",
   "bin": {

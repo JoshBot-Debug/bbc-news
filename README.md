@@ -2,6 +2,7 @@
 
 This node CLI package fetches BBC news. I will keep making improvements, this project is basically meant to quickly check headlines.
 
+This is the first nmp package i've made, if you have trouble installing it, please let me know so that I can learn and improve.
 
 ## Installation
 
@@ -9,7 +10,7 @@ You need to have node installed to install this package.
 
 ```properties
 # install globally
-npm install -g bbc-news
+npm install -g @joshua-myers/bbc-news
 ```
 
 
