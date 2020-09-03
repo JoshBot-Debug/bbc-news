@@ -1,6 +1,6 @@
 # BBC NEWS
 
-This node CLI package fetches BBC news 
+This node CLI package fetches BBC news. I will keep making improvements, this project is mostly meant to quickly check headlines.
 
 
 ## Installation
