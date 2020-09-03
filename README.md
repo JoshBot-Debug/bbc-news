@@ -7,7 +7,7 @@ This node CLI package fetches BBC news. I will keep making improvements, this pr
 
 You need to have node installed to install this package.
 
-```console
+```properties
 # install globally
 npm install -g bbc-news
 ```
@@ -15,7 +15,7 @@ npm install -g bbc-news
 
 ## Usage
 
-```console
+```properties
 # Display the menu
 bbc-news
 ```
