@@ -10,7 +10,7 @@ You need to have node installed to install this package.
 
 ```properties
 # install globally
-npm install -g @joshua-myers/bbc-news
+npm install -g bbc-news
 ```
 
 
