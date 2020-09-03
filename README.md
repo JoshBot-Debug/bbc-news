@@ -2,7 +2,7 @@
 
 This node CLI package fetches BBC news. I will keep making improvements, this project is basically meant to quickly check headlines.
 
-This is the first npm package i've made, if you have trouble installing it, please let me know so that I can learn and improve.
+This is the first npm package I've made, if you have trouble installing it or any other problems, please let me know so that I can learn and improve.
 
 ## Installation
 
